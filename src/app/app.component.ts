@@ -12,6 +12,6 @@ export class AppComponent {
   title = 'my-app';
 
   onButtonClick() {
-    window.
+    alert('Button was clicked!');
   }
 }
