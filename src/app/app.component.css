@@ -1,0 +1,15 @@
+.visit-btn {
+  background-color: #1976d2;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  padding: 12px 28px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background 0.2s;
+  box-shadow: 0 2px 6px rgba(25, 118, 210, 0.15);
+}
+
+.visit-btn:hover {
+  background-color: #1565c0;
+}
